@@ -1,0 +1,13 @@
+@import 'normalize.css';
+// @import ''
+
+:root {
+    --primary: #004eaf;
+}
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-rendering: optimizeSpeed;
+}
